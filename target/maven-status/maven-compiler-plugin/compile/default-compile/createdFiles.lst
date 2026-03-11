@@ -1,0 +1,4 @@
+com\jmeter\autocorrelator\AutoCorrelatorGui.class
+com\jmeter\autocorrelator\AutoCorrelatorGui$1.class
+com\jmeter\autocorrelator\AutoCorrelatorElement.class
+com\jmeter\autocorrelator\AutoCorrelatorGui$MatchRecord.class
